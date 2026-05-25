@@ -1,6 +1,7 @@
 var/*
 generated/*
 pub/static/*
+pub/media/catalog
 pub/media/catalog/product/cache/*
 app/etc/env.php
 /vendor/
